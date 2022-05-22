@@ -1,0 +1,12 @@
+C:\wamp642\www\POO\atv\Classes_Nome\bin\Debug\Classes_Nome.exe.config
+C:\wamp642\www\POO\atv\Classes_Nome\bin\Debug\Classes_Nome.exe
+C:\wamp642\www\POO\atv\Classes_Nome\bin\Debug\Classes_Nome.pdb
+C:\wamp642\www\POO\atv\Classes_Nome\obj\Debug\Classes_Nome.csprojAssemblyReference.cache
+C:\wamp642\www\POO\atv\Classes_Nome\obj\Debug\Classes_Nome.FrmAlimento.resources
+C:\wamp642\www\POO\atv\Classes_Nome\obj\Debug\Classes_Nome.FrmLoja.resources
+C:\wamp642\www\POO\atv\Classes_Nome\obj\Debug\Classes_Nome.FrmPrefeito.resources
+C:\wamp642\www\POO\atv\Classes_Nome\obj\Debug\Classes_Nome.Properties.Resources.resources
+C:\wamp642\www\POO\atv\Classes_Nome\obj\Debug\Classes_Nome.csproj.GenerateResource.cache
+C:\wamp642\www\POO\atv\Classes_Nome\obj\Debug\Classes_Nome.csproj.CoreCompileInputs.cache
+C:\wamp642\www\POO\atv\Classes_Nome\obj\Debug\Classes_Nome.exe
+C:\wamp642\www\POO\atv\Classes_Nome\obj\Debug\Classes_Nome.pdb
